@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Thanks for visiting my GitHub profile and repositories. I'm a Front End Web Developer!
+  I'm a passionate Frontend Developer with expertise in Angular, React, Tailwind CSS, and Material UI. I love crafting user-centric experiences and solving complex problems through elegant code.
 </p>
 
 
@@ -75,6 +75,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman">
 </p>
 
+## 💼 Portfolio
+
+Here are a few projects that demonstrate my skills and capabilities:
+
+1. [Pinaco](https://github.com/Derwinesmitch/Pinaco) - I contribute to a team project where React is used to create a dynamic and interactive user interface. Here, I demonstrate my expertise in React components and state management.
+2. [Daily-Goals](https://github.com/Derwinesmitch/Daily-Goals) - "Develped a responsive web application using Angular and Tailwind CSS. I integrate modern design principles to optimize the user experience.
+
 
 <!-- GitHub Statistics -->
 
@@ -90,6 +97,9 @@ Here are some ideas to get you started:
 
 </div>
 
+## 📬 Let's Connect
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via [email](mailto:mikaelhepner@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mikael-hepner/).
 <!-- My work environment -->
 
 <br><h2>💡 My work environment:</h2>
