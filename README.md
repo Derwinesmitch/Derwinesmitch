@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br><h2>💬 Tech Facts about me:</h2>
 
-💻 The repository I'm currently working on is [Pinaco](https://github.com/Derwinesmitch/Pinaco)(a Website built with the React).
+💻 The repository I'm currently working on is [Pinaco](https://github.com/Derwinesmitch/Pinaco)(a Website built with React).
 
 📋 I'm now learning TypeScript, Angular and React
 
