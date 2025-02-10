@@ -79,9 +79,7 @@ Here are some ideas to get you started:
 
 Here are a few projects that demonstrate my skills and capabilities:
 
-1. [Pinaco](https://github.com/Derwinesmitch/Pinaco) - I contribute to a team project where React is used to create a dynamic and interactive user interface. Here, I demonstrate my expertise in React components and state management.
-2. [Daily-Goals](https://github.com/Derwinesmitch/Daily-Goals) - "Develped a responsive web application using Angular and Tailwind CSS. I integrate modern design principles to optimize the user experience.
-
+1. [jswd-archive](https://github.com/Derwinesmitch/jswd-archive) - Developed a client archive for a company. Used React to make it interactive, integrated with Firebase to save the data and for Auth.
 
 <!-- GitHub Statistics -->
 
